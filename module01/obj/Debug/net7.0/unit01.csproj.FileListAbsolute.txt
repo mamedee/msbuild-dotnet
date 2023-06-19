@@ -1,0 +1,15 @@
+/workspaces/msbuild-dotnet/unit01/bin/Debug/net7.0/unit01
+/workspaces/msbuild-dotnet/unit01/bin/Debug/net7.0/unit01.deps.json
+/workspaces/msbuild-dotnet/unit01/bin/Debug/net7.0/unit01.runtimeconfig.json
+/workspaces/msbuild-dotnet/unit01/bin/Debug/net7.0/unit01.dll
+/workspaces/msbuild-dotnet/unit01/bin/Debug/net7.0/unit01.pdb
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.csproj.AssemblyReference.cache
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.AssemblyInfoInputs.cache
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.AssemblyInfo.cs
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.csproj.CoreCompileInputs.cache
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.dll
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/refint/unit01.dll
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.pdb
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/unit01.genruntimeconfig.cache
+/workspaces/msbuild-dotnet/unit01/obj/Debug/net7.0/ref/unit01.dll
